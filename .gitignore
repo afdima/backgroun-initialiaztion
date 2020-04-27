@@ -1,0 +1,7 @@
+build/
+local.properties
+*.iml
+.*
+!.gitignore
+gradle*
+!gradle.properties
