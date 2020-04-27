@@ -1,4 +1,4 @@
-package com.appsflyer.background_initialization
+package com.appsflyer.backgroundinitialization
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

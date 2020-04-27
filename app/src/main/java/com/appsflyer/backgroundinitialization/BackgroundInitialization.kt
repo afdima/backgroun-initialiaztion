@@ -1,4 +1,4 @@
-package com.appsflyer.background_initialization
+package com.appsflyer.backgroundinitialization
 
 import android.app.Application
 import com.appsflyer.AppsFlyerLib
